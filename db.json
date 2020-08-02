@@ -2,23 +2,23 @@
   "plataforma": [
     {
       "id": 1,
-      "sigla": "PCE-1"
+      "nome": "PCE-1"
     },
         {
       "id": 2,
-      "sigla": "P-31"
+      "nome": "P-31"
     },
         {
       "id": 3,
-      "sigla": "P-18"
+      "nome": "P-18"
     },
         {
       "id": 4,
-      "sigla": "PVM-3"
+      "nome": "PVM-3"
     },
         {
       "id": 5,
-      "sigla": "FPCAR"
+      "nome": "FPCAR"
     }
   ],
   "suporte": [
