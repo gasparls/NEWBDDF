@@ -1,0 +1,51 @@
+{
+  "plataforma": [
+    {
+      "id": 1,
+      "sigla": "PCE-1"
+    },
+        {
+      "id": 2,
+      "sigla": "P-31"
+    },
+        {
+      "id": 3,
+      "sigla": "P-18"
+    },
+        {
+      "id": 4,
+      "sigla": "PVM-3"
+    },
+        {
+      "id": 5,
+      "sigla": "FPCAR"
+    }
+  ],
+  "suporte": [
+    {
+      "id": 1,
+      "sigla": "PCE-1",
+      "nome": "SP-1"
+    },
+        {
+      "id": 2,
+      "sigla": "P-31",
+      "nome": "SP-2"
+    },
+        {
+      "id": 3,
+      "sigla": "P-18",
+      "nome": "SP-3"
+    },
+        {
+      "id": 4,
+      "sigla": "PVM-3",
+      "nome": "SP-4"
+    },
+        {
+      "id": 5,
+      "sigla": "FPCAR",
+      "nome": "SP-5"
+    }
+  ]
+}
